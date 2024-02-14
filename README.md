@@ -1,0 +1,2 @@
+# microfinbot
+micro finance bot
